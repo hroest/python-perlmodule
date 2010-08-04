@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/patches
+END
+perl-eval-leak
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/patches/perl-eval-leak
+END
+perl-nexttoke
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/patches/perl-nexttoke
+END
+python-20-dynload-global
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/patches/python-20-dynload-global
+END
+perl-method-G_EVAL
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/patches/perl-method-G_EVAL
+END
+python-152-dynload-global
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/patches/python-152-dynload-global
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/patches/README
+END
+perl-vcroak-null
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/patches/perl-vcroak-null
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t
+END
+kw-arg.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/kw-arg.py
+END
+socket.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/socket.py
+END
+TestClass.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/TestClass.pm
+END
+thr-svrv.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/thr-svrv.py
+END
+thr-more.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/thr-more.py
+END
+defined.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/defined.py
+END
+py-obj.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/py-obj.py
+END
+wantarray.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/wantarray.py
+END
+import.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/import.py
+END
+listop.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/listop.py
+END
+obj.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/obj.py
+END
+safecall.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/safecall.py
+END
+thr-basic.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/thr-basic.py
+END
+thr-conc.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/thr-conc.py
+END
+basic.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/basic.py
+END
+hashop.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/hashop.py
+END
+obj-fail.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/obj-fail.py
+END
+apply.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/apply.py
+END
+eval.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/t/eval.py
+END

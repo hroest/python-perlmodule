@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/93/trunk/extra-packages/pyperl-1.0.1d
+END
+lang_lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/lang_lock.h
+END
+perlpickle.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/perlpickle.py
+END
+perlsh.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/perlsh.py
+END
+dbi.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/dbi.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/88/trunk/extra-packages/pyperl-1.0.1d/setup.py
+END
+pyo.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/pyo.c
+END
+perlmodule.pod
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/perlmodule.pod
+END
+perlmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/perlmodule.c
+END
+perlmod.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/perlmod.py
+END
+opcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/opcode.c
+END
+pyo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/pyo.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/README
+END
+perlmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/perlmodule.h
+END
+lang_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/lang_map.c
+END
+opts.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/opts.pl
+END
+thrd_ctx.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/thrd_ctx.c
+END
+dbi-test.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/dbi-test.py
+END
+lang_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/lang_map.h
+END
+try_perlapi.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/try_perlapi.pl
+END
+thrd_ctx.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/thrd_ctx.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/TODO
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/MANIFEST
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/test.py
+END
+dlhack.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/dlhack.c
+END
+svrv_object.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/svrv_object.c
+END
+dbi2.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/dbi2.py
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/Changes
+END
+lang_lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/lang_lock.c
+END
+svrv_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/57/trunk/extra-packages/pyperl-1.0.1d/svrv_object.h
+END
