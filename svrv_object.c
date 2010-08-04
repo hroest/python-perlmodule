@@ -1174,7 +1174,7 @@ pysvrv_getattr(PySVRV *self, char *name)
 	}
     }
     else if (strcmp(name, "__type__") == 0) {
-	char *tmp;
+	const char *tmp;
 	ENTER_PERL;
 	tmp = sv_reftype(SvRV(self->rv), 0);
 	ENTER_PYTHON;

@@ -1,6 +1,8 @@
 /* Copyright 2000-2001 ActiveState
  */
 
+#include <XSUB.h>
+
 /* Python < 2.5 compat */
 #if PY_VERSION_HEX < 0x02050000 && !defined(PY_SSIZE_T_MIN)
 typedef int Py_ssize_t;

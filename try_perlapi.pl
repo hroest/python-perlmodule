@@ -51,7 +51,7 @@ fake_entertry()
     ENTER;
     SAVETMPS;
 
-    Perl_push_return(aTHX_ Nullop);
+//    Perl_push_return(aTHX_ Nullop);
     PUSHBLOCK(cx, (CXt_EVAL|CXp_TRYBLOCK), PL_stack_sp);
     PUSHEVAL(cx, 0, 0);
     PL_eval_root = PL_op;
@@ -72,7 +72,7 @@ fake_leavetry(I32 oldscope)
 
         POPBLOCK(cx,newpm);
         POPEVAL(cx);
-        Perl_pop_return(aTHX);
+//        Perl_pop_return(aTHX);
         PL_curpm = newpm;
     }
 
